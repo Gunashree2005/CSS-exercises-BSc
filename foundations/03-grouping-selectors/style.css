@@ -1,13 +1,13 @@
-.cat
-{
- font-family:"Times New Roman", Helvetica, sans-serif;
- background-color:black;
- color:white;
- font-size:28px;
+.b1 , .b2{
+  font-size: 28px;
+ font-family: Helvetica, "Times New Roman" , sans-serif;
  }
- #mith
- {
- background-color:yellow;
- font-family:"Times New Roman", Helvetica, sans-serif;
-  font-size:28px;
- }
+
+.b1 {
+    background-color: black;
+    color:white;
+}
+
+.b2 {
+    background-color: yellow; 
+}
